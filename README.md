@@ -1,5 +1,4 @@
 # Nemesis
-> tommorow pushing an update, changing license and aswell few new mons agaisnt data staelers. 
 [![Website](https://img.shields.io/badge/zypherion.tech-1f6feb?logo=googlechrome&logoColor=white)](https://www.zypherion.tech)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/JXx32jKJXY)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/zypherion_technologies)
